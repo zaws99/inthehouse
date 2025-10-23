@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 2,
+    "name": "Alat Pel Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 3,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 4,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 5,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 6,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 7,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 8,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id":9,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 10,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  },
+  {
+    "id": 11,
+    "name": "Sapu Ijuk Premium",
+    "price": 25000,
+    "category": "Alat Kebersihan",
+    "description": "Sapu premium",
+    "image": "images/products/product-1.jpg",
+    "stock": 100,
+    "rating": 4.5,
+    "discount": 10,
+    "weight": 500,
+    "whatsapp": "Halo, saya mau pesan..."
+
+  }
+]

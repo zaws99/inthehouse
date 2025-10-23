@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toko Alat Rumah Tangga</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header / Navbar -->
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">🏠 In The House</h1>
+            <p class="tagline">Perlengkapan Rumah Berkualitas dengan Harga Terjangkau</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Search & Filter Section -->
+            <div class="filter-section">
+                <input type="text" id="searchInput" class="search-box" placeholder="🔍 Cari produk...">
+                <select id="categoryFilter" class="category-filter" title="Filter">
+                    <option value="all">Semua Kategori</option>
+                </select>
+            </div>
+
+            <!-- Loading State -->
+            <div id="loading" class="loading">
+                <p>Memuat produk...</p>
+            </div>
+
+            <!-- Products Grid -->
+            <div id="productsContainer" class="products-grid">
+                <!-- Products akan dimuat dari JavaScript -->
+            </div>
+
+            <!-- Empty State -->
+            <div id="emptyState" class="empty-state">
+                <p>❌ Produk tidak ditemukan</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Toko Alat Rumah Tangga. All rights reserved.</p>
+            <p>Hubungi kami via WhatsApp untuk pemesanan</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="main.js"></script>
+</body>
+</html>
