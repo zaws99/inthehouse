@@ -90,7 +90,7 @@ function createProductCard(product) {
     const whatsappLink = generateWhatsAppLink(product);
     
     card.innerHTML = `
-        <img src="img/no-image.png" alt="${product.name}" class="product-image">
+        <img src="${product.image}" alt="${product.name}" class="product-image">
 
         <div class="product-info">
             <div class="product-category">${product.category}</div>
